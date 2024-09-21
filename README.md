@@ -10,3 +10,7 @@ Goals
 * automatic scroll indexing
 * different from RSS
 * useful for humans and computers
+* fewer dependencies than hello-phext
+* fast enough for teams of size N=10M
+* pluggable architecture
+* subspace conduits to provide for concept transfer
